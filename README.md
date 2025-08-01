@@ -94,7 +94,7 @@ This project demonstrates how machine learning, particularly **Transformers**, c
     ```
 2. Install dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install pandas matplotlib scikit-learn torch seaborn 
     ```
 3. Run the preprocessing and training scripts:
     ```python
