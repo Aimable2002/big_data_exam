@@ -72,7 +72,7 @@ This project demonstrates how machine learning, particularly **Transformers**, c
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository.git
+    https://github.com/Aimable2002/big_data_exam.git
     ```
 2. Install dependencies:
     ```bash
