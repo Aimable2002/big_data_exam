@@ -73,6 +73,43 @@ Here is the output log after running the model:
 
 ```bash
 ...
-Total Loss: 0.4554
-Row 0 - Combined Risk: 0.620, Status: Diseased
+Successfully save the powerBI csv file
+torch.Size([300])
+train predictions
+ tensor([[0.7234, 0.5000, 0.5000,  ..., 0.5954, 0.5000, 0.6135],
+        [0.7391, 0.3602, 0.5086,  ..., 0.5000, 0.4557, 0.5980],
+        [0.7864, 0.5000, 0.5324,  ..., 0.4298, 0.5000, 0.6405],
+        ...,
+        [0.7463, 0.3252, 0.5420,  ..., 0.4159, 0.3485, 0.5775],
+        [0.7148, 0.3564, 0.5347,  ..., 0.5000, 0.4200, 0.5000],
+        [0.7181, 0.2808, 0.5273,  ..., 0.4098, 0.5000, 0.6364]],
+       grad_fn=<SqueezeBackward1>)
+output reached in metrics tensor([[0.7234, 0.5000, 0.5000,  ..., 0.5954, 0.5000, 0.6135],
+        [0.7391, 0.3602, 0.5086,  ..., 0.5000, 0.4557, 0.5980],
+        [0.7864, 0.5000, 0.5324,  ..., 0.4298, 0.5000, 0.6405],
+        ...,
+        [0.7463, 0.3252, 0.5420,  ..., 0.4159, 0.3485, 0.5775],
+        [0.7148, 0.3564, 0.5347,  ..., 0.5000, 0.4200, 0.5000],
+        [0.7181, 0.2808, 0.5273,  ..., 0.4098, 0.5000, 0.6364]],
+       grad_fn=<SqueezeBackward1>)
+target reached in metrics tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]])
+====================================================================================================
+
+Last risk dictionary:
+
+{'row_risk': {'target': 0.7180678844451904, 'diabetes_risk': 0.28078845143318176, 'heart_disease_risk': 0.5273335576057434, 'cancer_risk': 0.8171169757843018, 'ckd_risk': 0.28835317492485046, 'stroke_risk': 0.4325588345527649, 'obesity_risk': 0.4098053574562073, 'mental_health_risk': 0.5, 'liver_disease_risk': 0.6364028453826904}, 'combined_risk': 0.5122696757316589, 'status': 1, 'precision': 0.5, 'recall': 0.3333333333333333, 'f1_score': 0.4}
+Training Summary:
+Total Loss: 0.1431
+
+Health Advice for Last Patient:
+heart_disease_risk: Keep good health congz
+cancer_risk: Reduce smoking and alcohol, get regular screenings.
+mental_health_risk: Seek mental health support and manage stress.
+liver_disease_risk: Keep good health congz
 ...
