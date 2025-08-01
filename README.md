@@ -46,23 +46,23 @@ This project demonstrates how machine learning, particularly **Transformers**, c
 
 ## **Dashboard For Summary** 📸
 
-![Smokers](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/plots/fare_by_hour.png)
+![Smokers](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/smokers.png)
 
 *This chart visualizes the average of smokers*
 
-![Diabets_binary](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/powerBI/pick.png)
+![Diabets_binary](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/Diabetes_binary.png)
 
 *This chart visualizes the diabets binary contributions*
 
-![High blood pressure](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/plots/fare_by_hour.png)
+![High blood pressure](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/HighBP.png)
 
 *This chart visualizes average of High blood pressure*
 
-![BMI](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/powerBI/pick.png)
+![BMI](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/BMI.png)
 
 *This chart visualizes average of BMI*
 
-![correletion_heatmap](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/powerBI/pick.png)
+![correletion_heatmap](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/Correlation_Heatmap.png)
 
 *This chart visualizes the relationship by correlation-heatmap*
 
