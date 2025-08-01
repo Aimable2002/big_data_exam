@@ -62,9 +62,21 @@ This project demonstrates how machine learning, particularly **Transformers**, c
 
 *This chart visualizes average of BMI*
 
+![BMI](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/Diabets_binary.png)
+
+*This chart visualizes average of diabets_binary by both male and female and BMI by diabet*
+
+![BMI](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/Heart.png)
+
+*This chart visualizes average of heartAttack by income and age*
+
 ![correletion_heatmap](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/Correlation_Heatmap.png)
 
 *This chart visualizes the relationship by correlation-heatmap*
+
+![Dashboard](https://raw.githubusercontent.com/Aimable2002/big_data_exam/main/dashboard.png)
+
+*This chart visualizes dashboard summary*
 
 ---
 
