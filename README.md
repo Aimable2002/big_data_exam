@@ -8,7 +8,7 @@ This project predicts various health risks like **Diabetes**, **Cardiovascular D
 
 ### 1. **Data Collection and Preparation** 📥
 
-- **Dataset Source**: The dataset used is the **Diabetes Health Indicators Dataset** from [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset).
+- **Dataset Source**: The dataset used is the **Diabetes Health Indicators Dataset** from [UCI Machine Learning]([https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators).
 - **Data Cleaning**: 
     - Categorical columns (e.g., **Smoker**, **Sex**, **Stroke**) were encoded using binary and ordinal mappings.
     - Numerical values were checked for missing data and outliers.
