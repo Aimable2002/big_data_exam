@@ -46,7 +46,25 @@ This project demonstrates how machine learning, particularly **Transformers**, c
 
 ## **Dashboard For Summary** 📸
 
-![Power BI Dashboard](https://example.com/your-dashboard-image)
+![Smokers](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/plots/fare_by_hour.png)
+
+*This chart visualizes how the average fare amount varies by hour of the day.*
+
+![Diabets_binary](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/powerBI/pick.png)
+
+*This chart visualizes how the average fare amount varies by hour of the day. and counts of pickup date*
+
+![High blood pressure](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/plots/fare_by_hour.png)
+
+*This chart visualizes how the average fare amount varies by hour of the day.*
+
+![BMI](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/powerBI/pick.png)
+
+*This chart visualizes how the average fare amount varies by hour of the day. and counts of pickup date*
+
+![correletion_heatmap](https://raw.githubusercontent.com/Aimable2002/big_data_sign/main/powerBI/pick.png)
+
+*This chart visualizes how the average fare amount varies by hour of the day. and counts of pickup date*
 
 ---
 
