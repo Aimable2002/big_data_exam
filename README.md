@@ -1,7 +1,8 @@
-Power BI address:
-    ```bash
-    https://drive.google.com/file/d/1f9tJoaxXQJvSwOdzeFRTG5yaW2eIgIad/view?usp=sharing
-    ```
+## 📊 Power BI Dashboard
+
+You can view the Power BI report here:  
+[Power BI Dashboard on Google Drive](https://drive.google.com/file/d/1f9tJoaxXQJvSwOdzeFRTG5yaW2eIgIad/view?usp=sharing)
+
 
 # Health Risk Prediction Using Transformer Model
 
